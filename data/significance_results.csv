@@ -1,0 +1,5 @@
+horizon,bal_acc,mcnemar_p,perm_p,n_test,mcnemar_p_holm,mcnemar_p_sig@.05,perm_p_holm,perm_p_sig@.05
+1h,0.4916,0.0262,0.7554,1419,0.1048,False,1.0,False
+6h,0.5025,0.9471,0.4423,1437,1.0,False,1.0,False
+12h,0.5118,0.6648,0.188,1445,1.0,False,0.752,False
+24h,0.4963,0.7795,0.6567,1447,1.0,False,1.0,False
